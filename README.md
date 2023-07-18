@@ -1,7 +1,7 @@
 ## Analysis Overview - Purpose of Analysis
-- The purpose of this analysis was to assist the nonprofit foundation Alphabet Soup to create a tool to help it select the applicants for funding with the best chance of success in their ventures
-- In order to do so, I was to utilize my knowledge of machine learning and neural networks, using the features in the charity dataset (representing over 34,000 organizations) to create a binary classifier
-- Using this classifier, I was to predict whether applicants will be successful if funded by Alphabet Soup
+- The purpose of this analysis was to assist the nonprofit foundation Alphabet Soup to create a tool to help it select the applicants for funding with the best chance of success in their ventures.
+- In order to do so, I was to utilize my knowledge of machine learning and neural networks, using the features in the charity dataset (representing over 34,000 organizations) to create a binary classifier.
+- Using this classifier, I was to predict whether applicants will be successful if funded by Alphabet Soup.
 
 ## Method and Results
 Data Preprocessing
